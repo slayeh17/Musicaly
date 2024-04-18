@@ -10,7 +10,7 @@ export function HeroBackground() {
                 </p>
                 <p className="text-3xl text-center max-w-lg mt-8 bg-gradient-to-r from-violet-600 to-red-500 inline-block text-transparent bg-clip-text ">
                     Dive into our comprehensive music courses and transform your
-                    musical journey today. Whether you're a beginner or looking
+                    musical journey today. Whether you&apos;re a beginner or looking
                     to refine your skills, join us to unlock your true
                     potential.
                 </p>
